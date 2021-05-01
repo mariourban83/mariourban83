@@ -1,5 +1,4 @@
 ### Hi, I'm Mario
-<img src="https://media.giphy.com/media/gFmkpNCar7TSoauRUs/giphy.gif" width="300">
 
 ## In short, I'm Tech Enthusiast with passion for Web Development!
 - 🔭 I’m currently working on - My portfolio site.
@@ -17,4 +16,4 @@
 <br />
 
 [website]: https://mariourban.net
-[linkedin]: https://www.linkedin.com/mariourban83/
+[linkedin]: https://www.linkedin.com/in/mariourban83/
