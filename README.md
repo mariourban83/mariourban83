@@ -1,4 +1,5 @@
-### Hi, I'm Mario <img src="https://media.giphy.com/media/gFmkpNCar7TSoauRUs/giphy.gif" width="300px">(https://fullyunderstood.com/author/indrajitbnikam/)
+### Hi, I'm Mario
+![](https://media.giphy.com/media/gFmkpNCar7TSoauRUs/giphy.gif)
 
 ## In short, I'm Tech Enthusiast with passion for Web Development!
 - 🔭 I’m currently working on - My portfolio site.
