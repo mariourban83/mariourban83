@@ -8,8 +8,6 @@
 - 🥅 2021 Goal - Work with people who pioneers in web development.
 
 
-[![Mario's github stats](https://github-readme-stats.vercel.app/api?username=mariourban83&count_private=true&include_all_commits=true&theme=radical)](https://github.com/mariourban83?tab=repositories)
-
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
