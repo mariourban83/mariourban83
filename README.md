@@ -1,10 +1,10 @@
 ### Hi, I'm Mario
 
 ## In short, I'm Tech Enthusiast with passion for Web Development!
-- 🔭 I’m currently working on - [Server side rendering with React](https://github.com/mariourban83/react-server-side-rendering).
-- 🌱 I’m currently learning - React, Redux & Javascript
+- 🔭 I’m currently working on - [Microservices with Flask, React and Docker](https://github.com/mariourban83/microservices-with-flask-react-docker).
+- 🌱 I’m constantly learning - React, Redux & Javascript and my favorite - Docker.
 - 👯 I’m looking to collaborate with - Other developers in community.
-- 💬 Ask me about - Python, Javascript || React 😉
+- 💬 Ask me about - Docker, Python, Javascript || React 😉
 - 🥅 2021 Goal - Work with people who pioneers in web development.
 
 
