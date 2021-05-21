@@ -1,7 +1,7 @@
 ### Hi, I'm Mario
 
 ## In short, I'm Tech Enthusiast with passion for Web Development!
-- 🔭 I’m currently working on - [Microservices with Flask, React and Docker](https://github.com/mariourban83/microservices-with-flask-react-docker).
+- 🔭 I’m currently working on - Containerize React app with Docker for Production
 - 🌱 I’m constantly learning - Python, React & Javascript and my favorite - Docker.
 - 👯 I’m looking to collaborate with - Other developers in community.
 - 💬 Ask me about - Docker, Python, Javascript || React 😉
