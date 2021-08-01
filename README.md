@@ -1,7 +1,7 @@
 ### Hi, I'm Mario
 
 ## In short, I'm Tech Enthusiast with passion for Web Development!
-- 🔭 I’m currently working on - Containerize React app with Docker for Production
+- 🔭 I’m currently working on - .NET Core and Angular app
 - 🌱 I’m constantly learning - Python, React & Javascript and my favorite - Docker.
 - 👯 I’m looking to collaborate with - Other developers in community.
 - 💬 Ask me about - Docker, Python, Javascript || React 😉
