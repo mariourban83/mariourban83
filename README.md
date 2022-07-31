@@ -1,11 +1,11 @@
 ### Hi, I'm Mario
 
-## In short, I'm Tech Enthusiast with passion for Web Development!
-- 🔭 I’m currently working on - .NET Core and Angular app
-- 🌱 I’m constantly learning - Python, React & Javascript and my favorite - Docker.
+## In short, I'm Tech Enthusiast with passion for Web Development and everything Angular!
+- 🔭 I’m currently working on - .NET Core, Angular, Ionic-Capacitor app
+- 🌱 I’m constantly learning - Python, Angular, Javascript, Docker || Proxmox.
 - 👯 I’m looking to collaborate with - Other developers in community.
-- 💬 Ask me about - Docker, Python, Javascript || React 😉
-- 🥅 2021 Goal - Work with people who pioneers in web development.
+- 💬 Ask me about -  Angular && Ionic 😉
+- 🥅 Lifelong Goal - Get better,  get stonger.
 
 
 ## Connect with me:
